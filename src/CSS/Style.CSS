@@ -1,0 +1,197 @@
+.button-inicial{
+    padding-top: 3%;
+    padding-left: 5%;
+    width: 25px;
+}
+.menu{
+    padding-left: 7%;
+    margin-top: -1.4%;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    
+}
+.traco{
+    padding-left: 10%;
+    margin-top: -3%;
+    
+}
+.assine{
+    display: flex;
+    
+
+}
+.assines{
+    margin-top: -1.4%;
+    font-family: inter;
+    font-size: medium;
+    font-weight: 400;
+    font-size: 20px;
+}
+.meio-topo{
+    display: flex;
+    justify-content: center;
+    margin-top: -1.4%;
+    font-weight: 600;
+    font-family: inter;
+    text-decoration: none;
+    font-size: 45px;
+    color: lightblue;
+    margin-right: 5%;
+
+}
+.globo-com{
+    text-decoration: none;
+    color: lightblue;
+    margin-top: -1%;
+}
+.conta-globo{
+    float: right;
+    margin-right: 20%;
+    margin-top: -1.6%;
+    font-family: inter;
+    font-size: 20px;
+    
+}
+.pessoa{
+    width: 2.5%;
+    float: right;
+    margin-top: -2.5%;
+    margin-right: 17%;
+    
+}
+.traco-final{
+    float: right;
+    margin-right: 11%;
+    margin-top: -4%;
+    width: 19%;
+}
+.busca{
+    float: right;
+    margin-top: -2.5%;
+    margin-right: 11%;
+    font-family: inter;
+    font-size: 20px;
+}
+.lupa{
+    width: 2.5%;
+    float: right;
+    margin-top: -3.5%;
+    margin-right: 7%;
+}
+
+.tributo{
+    display: flex;
+    justify-content: center;
+font-size: 25px;}
+
+.globo1{
+    display: inline-flex;
+    margin-left: px;
+    margin-top: 5px;
+    color: rgb(196, 23, 12);
+    text-decoration: none;
+    font-family: inter;
+   
+}
+.globo2{
+    display: inline-flex;
+    margin-left: 30px ;
+    color: rgb(30, 76, 154);
+    text-decoration: none;
+    font-family: inter;
+    
+}
+.globo3{
+    display: inline-flex;
+    margin-left: 30px;
+    color: rgb(0, 103, 103);
+    text-decoration: none;
+    font-family: inter;
+}
+.globo4{
+    display: inline-flex;
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(6, 170, 72);
+    font-family: inter;
+}
+.globo5{
+    display: inline-flex;
+    margin-left: 30px;
+    color: rgb(255, 116, 0);
+    text-decoration: none;
+    font-family: inter;
+}
+.globo6{
+    display: inline-flex;
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(251, 2, 52);
+    font-family: inter;
+}
+.globo7{
+    display:inline-flex;
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(255, 103, 0);
+    font-family: inter;
+
+}
+.globo8{
+    display: inline-flex;
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(47, 49, 52);
+    font-family: inter;
+}
+.globo9{
+    display: inline-flex;
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(196, 23, 12)   ;
+    font-family: inter;
+}
+.globo10{
+    display: inline-flex;
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(165, 20, 125);
+    font-family: inter;
+    
+}
+.globo1:hover{
+    color:lightsalmon;
+}
+.tributo{
+    border: 1px solid black;
+}
+.globo2:hover{
+color: blueviolet;
+}
+.globo3:hover{
+    color: rgb(0, 141, 141);
+}
+.globo4:hover{
+    color: rgb(14, 226, 99);
+}
+.globo5:hover{
+    color: rgb(255, 161, 85);
+}
+.globo6:hover{
+    color: rgb(250, 94, 125);
+}
+.globo7:hover{
+    color: rgba(240, 109, 22, 0.89);
+}
+.globo8:hover{
+    color: rgb(77, 80, 83);
+}
+.globo9:hover{
+color:  rgb(228, 75, 64)
+}
+.gif{
+    margin-left: 16%;
+    margin-top: 2%;
+
+}
