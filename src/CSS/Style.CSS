@@ -54,10 +54,10 @@
     
 }
 .pessoa{
-    width: 2.5%;
+    width: 4%;
     float: right;
     margin-top: -2.5%;
-    margin-right: 17%;
+    margin-right: 15.9%;
     
 }
 .traco-final{
@@ -194,4 +194,47 @@ color:  rgb(228, 75, 64)
     margin-left: 16%;
     margin-top: 2%;
 
+}
+.noticia1{
+    text-decoration: none;
+    color: red;
+   display: flex;
+   margin-top: 4%;
+   margin-left: 4.5%;
+   font-size: 60px;
+   font-weight: 600;
+}
+
+.topicos1{
+    text-decoration: none;
+    color: black;
+    margin-left: 2%;
+    font-size: 25px;
+    margin-top: -1.1%;
+    font-weight: 600;
+    
+}
+.pontofinal{
+width: 8px;
+height: 8px;
+border-radius: 50%;
+background-color: orangered;
+margin-top: 1.5%;
+margin-left: 3%;
+}
+.topicos2{
+    text-decoration: none;
+    color: black;
+    margin-left: 2%;
+    font-size: 25px;
+    margin-top: -1.2%;
+    font-weight: 600;
+}
+.topicos3{
+    text-decoration: none;
+    color: black;
+    margin-left: 2%;
+    font-size: 25px;
+    margin-top: -1.1%;
+    font-weight: 600;
 }
