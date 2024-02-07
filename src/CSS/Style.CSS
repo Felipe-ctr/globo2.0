@@ -7,7 +7,7 @@
     padding-left: 7%;
     margin-top: -1.4%;
     font-family: Inter;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 400;
     
 }
@@ -240,7 +240,7 @@ margin-left: 3%;
 }
 .noticia2{
     float: right;
-    margin-top: -17%;
+    margin-top: -33%;
     margin-right: 26%;
     width: 350px;
     height: 204px;
@@ -256,12 +256,13 @@ margin-left: 3%;
 
 }
 .linha-horizontal{
-    width: 40%;
+    width: 80%;
     height: 1px;
     background-color: gray;
-    margin-left: 27%;
+    margin-left: 5%;
     margin-top: 2%;
     transform: rotate(270deg);
+    margin-top: 22%;
 }
 .topicos2-1{
     display: block;
@@ -287,14 +288,15 @@ margin-left: 3%;
     height: 204px;
     border-radius: 5%;
     margin-right: 4%;
-    margin-top: -20%;
+    margin-top: -40%;
 }
 .linha-horizontal1{
-    width: 40%;
+    width: 80%;
     height: 1px;
     background-color: gray;
-    margin-left: 53%;    
+    margin-left: 33%;    
     transform: rotate(270deg);
+    
 }
 .bbb1{
     color: orange;
@@ -304,7 +306,104 @@ margin-left: 3%;
     font-family:inter;
     font-size: 30px;
     margin-right: 4.5%;
-    margin-top: -8%;
-    font-family: ;
+    margin-top: -27%;
+    
 
+}
+.bbb-1{
+    float: right;
+    width: 350px;
+    height: 204px;
+    border-radius: 5%;
+    margin-right: 4.3%;
+    margin-top: -20%; 
+}
+.bbb1-1{
+    color: orange;
+    text-decoration: none;
+    float: right;
+    font-weight: 600;
+    font-family:inter;
+    font-size: 30px;
+    margin-right: 4.1%;
+    margin-top: -7%; 
+}
+.bolinhas
+{
+    width: 350px;
+    height: 204px;
+    float: right;
+    margin-right: 31%;
+    border-radius: 5%;
+    margin-top: -18%;
+}
+.primeiro-titulo{
+    text-decoration: none;
+    color: green;
+    font-size: 30px;
+    font-weight: 600;
+    display:block;
+    float: right;
+    margin-top: -6%;
+    margin-right: 31.4%;
+}
+.segundo-titulo{
+    text-decoration: none;
+    color: green;
+    font-size: 30px;
+    font-weight: 600;
+    display:block;
+    float: right;
+    margin-top: 1%;
+    margin-right: 32.5%;
+}
+.divisao{
+    width: 40%;
+    height: 1px;
+    background-color: gray;
+    margin-left: 2%;
+    margin-top: -24%;
+  
+}
+.campo1{
+    margin-top: 34%;
+    margin-left: 49%;
+    width: 350px;
+    height: 204px;
+    border-radius: 5%;
+ 
+   
+    display: block;
+    
+}
+.text-campo{
+    text-decoration: none;
+    color: green;
+    font-size: 30px;
+    font-family: inter;
+    font-weight: 600;
+    display: block;
+    margin-left: 48.5%;
+    margin-top: 2%;
+    
+}
+.votacao1{
+    width: 350px;
+    height: 204px;
+    display: block;
+    float: right;
+    margin-right: 4.5%;
+    margin-top: -30%;
+    border-radius: 5%;
+}
+.texto-votacao{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-family: inter;
+    font-weight: 600;
+    display: block;
+    float: right;
+    margin-right: 6.3%;
+    margin-top: -17%;
 }
