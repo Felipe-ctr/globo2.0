@@ -73,46 +73,126 @@
     background-color: #ebedef;
     margin-top: 1%;
 }
-.g1-{
-    margin-top: 1%;
-    margin-left: 4%;
-    width: 1.4%;
+.g1{
+    text-decoration: none;
+}
+.g11{
+ 
+    font-family: inter;
+    display: block;
+    margin-left: 5%;
+    color: rgb(196, 23, 12);
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 1.4%;
+}
+.o-globo{
+    text-decoration: none;
 }
 .globin{
-    margin-left: 5.5%;
-    width: 4.7%;
+    margin-left: 13%;
+    color: rgb(30, 76, 154);
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: -1.4%;
+    font-family: inter;
+
+    
+    
+}
+.valor1{
+    text-decoration: none;
 }
 .valor{
-    margin-left: 5.5%;
-    width: 3.5%;
+    margin-left: 23%;
+    font-family: inter;
+    margin-top: -1.4%;
+    font-size: 20px;
+    color: rgb(0, 103, 103);
+    font-weight: 600;
+   
+}
+.ge1{
+    text-decoration: none;
 }
 .ge{
-    margin-left: 5.5%;
-    width: 1.8%;
+    margin-left: 32%;
+    font-family: inter;
+    margin-top: -1.4%;
+    font-size: 20px;
+    font-weight: 600; 
+    color: rgb(6, 170, 72);   
+}
+.cartola1{
+    text-decoration: none;
 }
 .cartola{
-    margin-left: 5.5%;
-    width: 3.9%;
+    margin-left: 39%;
+    font-family: inter;
+    margin-top: -1.4%;
+    font-size: 20px;
+    font-weight: 600; 
+    color: rgb(255, 116, 0); 
+   
+}
+.globoplay1{
+    text-decoration: none;
 }
 .globoplay{
-    margin-left: 5.2%;
-    width: 6.5%;
+    margin-left: 48%;
+    font-family: inter;
+    margin-top: -1.4%;
+    font-size: 20px;
+    font-weight: 600;  
+    color: rgb(251, 2, 52);
+}
+.gshow1{
+    text-decoration: none;
 }
 .gshow{
-    margin-left: 5.5%;
-    width: 4.8%;
+    margin-left: 58%;
+    font-family: inter;
+    margin-top: -1.4%;
+    font-size: 20px;
+    font-weight: 600; 
+    color: rgb(255, 103, 0); 
+   
+}
+.bbb1{
+    text-decoration: none;
 }
 .bbb{
-    margin-left: 5.5%;
-    width: 3.3%;
+    margin-left: 67%;
+    font-family: inter;
+    margin-top: -1.4%;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(80, 1, 179);  
+    
+}
+.quem1{
+    text-decoration: none;
 }
 .quem{
-    margin-left: 5.5%;
-    width: 4%;
+    margin-left: 76%;
+    font-family: inter;
+    margin-top: -1.4%;
+    font-size: 20px;
+    font-weight: 600; 
+    color: rgb(51, 51, 51); 
+  
+}
+.receitas1{
+    text-decoration: none;
 }
 .receitas{
-    margin-left: 5.7%;
-    width: 5.1%;
+    margin-left: 85%;
+    font-family: inter;
+    margin-top: -1.4%;
+    font-size: 20px;
+    font-weight: 600; 
+    color: rgb(165, 20, 125); 
+    
 }
 .barra-2{
     width: 100%;
