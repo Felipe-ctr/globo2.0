@@ -1,410 +1,122 @@
-.button-inicial{
-    padding-top: 3%;
-    padding-left: 5%;
-    width: 25px;
+.quadrado{
+
+    margin-top: 3%;
+    margin-left: 4%;
+    width: 1.4%;
 }
 .menu{
-    padding-left: 7%;
-    margin-top: -1.4%;
-    font-family: Inter;
-    font-size: 20px;
-    font-weight: 400;
-    
+    margin-left: 6.2%;
+    margin-top: -1.7%;
+    font-family: inter;
+    font-size: 18px;
 }
-.traco{
-    padding-left: 10%;
-    margin-top: -3%;
-    
+.barra{
+    width: 3%;
+    height: 1px;
+    background-color: #ebedef;
+    transform: rotate(270deg);
+    margin-left: 8.5%;
+    margin-top: -0.8%;
+
 }
 .assine{
-    display: flex;
-    
+    margin-left: 11%;
+    margin-top: -0.4%;
+    font-family: inter;
+    font-size: 18px;
 
 }
-.assines{
-    margin-top: -1.4%;
-    font-family: inter;
-    font-size: medium;
-    font-weight: 400;
-    font-size: 20px;
-}
-.meio-topo{
-    display: flex;
-    justify-content: center;
-    margin-top: -1.4%;
-    font-weight: 600;
-    font-family: inter;
-    text-decoration: none;
-    font-size: 45px;
-    color: lightblue;
-    margin-right: 5%;
-
-}
-.globo-com{
-    text-decoration: none;
-    color: lightblue;
-    margin-top: -1%;
+.globoi{
+    margin-left: 41%;
+    margin-top: -2.1%;
+    width: 15%;
 }
 .conta-globo{
     float: right;
-    margin-right: 20%;
-    margin-top: -1.6%;
+    margin-top: -1.1%;
+    margin-right: 13.5%;
+    font-size: 18px;
+    font-family: Inter;
+
+}
+.pessoinha{
+    float: right;
+    margin-right: -8.6%;
+    margin-top: -1.9%;
+    width: 1.6%;
+}
+.barra-1{
+    width: 3%;
+    height: 1px;
+    background-color: #ebedef;
+    transform: rotate(270deg);
+    float: right;
+    margin-right: -11.6%;
+    margin-top: -0.7%;
+}
+.buscas{
+    float: right;
+    margin-right: -14%;
+    margin-top: -1.1%;
     font-family: inter;
-    font-size: 20px;
-    
-}
-.pessoa{
-    width: 4%;
-    float: right;
-    margin-top: -2.5%;
-    margin-right: 15.9%;
-    
-}
-.traco-final{
-    float: right;
-    margin-right: 11%;
-    margin-top: -4%;
-    width: 19%;
-}
-.busca{
-    float: right;
-    margin-top: -2.5%;
-    margin-right: 11%;
-    font-family: inter;
-    font-size: 20px;
+    font-size: 18px;
 }
 .lupa{
-    width: 2.5%;
     float: right;
-    margin-top: -3.5%;
-    margin-right: 7%;
+    margin-right: -17%;
+    margin-top: -1.6%;
+    width: 2.3%;
 }
-
-.tributo{
-    display: flex;
-    justify-content: center;
-font-size: 25px;}
-
-.globo1{
-    display: inline-flex;
-    margin-left: px;
-    margin-top: 5px;
-    color: rgb(196, 23, 12);
-    text-decoration: none;
-    font-family: inter;
-   
-}
-.globo2{
-    display: inline-flex;
-    margin-left: 30px ;
-    color: rgb(30, 76, 154);
-    text-decoration: none;
-    font-family: inter;
-    
-}
-.globo3{
-    display: inline-flex;
-    margin-left: 30px;
-    color: rgb(0, 103, 103);
-    text-decoration: none;
-    font-family: inter;
-}
-.globo4{
-    display: inline-flex;
-    margin-left: 30px;
-    text-decoration: none;
-    color: rgb(6, 170, 72);
-    font-family: inter;
-}
-.globo5{
-    display: inline-flex;
-    margin-left: 30px;
-    color: rgb(255, 116, 0);
-    text-decoration: none;
-    font-family: inter;
-}
-.globo6{
-    display: inline-flex;
-    margin-left: 30px;
-    text-decoration: none;
-    color: rgb(251, 2, 52);
-    font-family: inter;
-}
-.globo7{
-    display:inline-flex;
-    margin-left: 30px;
-    text-decoration: none;
-    color: rgb(255, 103, 0);
-    font-family: inter;
-
-}
-.globo8{
-    display: inline-flex;
-    margin-left: 30px;
-    text-decoration: none;
-    color: rgb(47, 49, 52);
-    font-family: inter;
-}
-.globo9{
-    display: inline-flex;
-    margin-left: 30px;
-    text-decoration: none;
-    color: rgb(196, 23, 12)   ;
-    font-family: inter;
-}
-.globo10{
-    display: inline-flex;
-    margin-left: 30px;
-    text-decoration: none;
-    color: rgb(165, 20, 125);
-    font-family: inter;
-    
-}
-.globo1:hover{
-    color:lightsalmon;
-}
-.tributo{
-    border: 1px solid black;
-}
-.globo2:hover{
-color: blueviolet;
-}
-.globo3:hover{
-    color: rgb(0, 141, 141);
-}
-.globo4:hover{
-    color: rgb(14, 226, 99);
-}
-.globo5:hover{
-    color: rgb(255, 161, 85);
-}
-.globo6:hover{
-    color: rgb(250, 94, 125);
-}
-.globo7:hover{
-    color: rgba(240, 109, 22, 0.89);
-}
-.globo8:hover{
-    color: rgb(77, 80, 83);
-}
-.globo9:hover{
-color:  rgb(228, 75, 64)
-}
-.gif{
-    margin-left: 16%;
-    margin-top: 2%;
-
-}
-.noticia1{
-    text-decoration: none;
-    color: red;
-   display: flex;
-   margin-top: 4%;
-   margin-left: 4.5%;
-   font-size: 60px;
-   font-weight: 600;
-}
-
-.topicos1{
-    text-decoration: none;
-    color: black;
-    margin-left: 2%;
-    font-size: 25px;
-    margin-top: -1.1%;
-    font-weight: 600;
-    
-}
-.pontofinal{
-width: 8px;
-height: 8px;
-border-radius: 50%;
-background-color: orangered;
-margin-top: 1.5%;
-margin-left: 3%;
-}
-.topicos2{
-    text-decoration: none;
-    color: black;
-    margin-left: 2%;
-    font-size: 25px;
-    margin-top: -1.2%;
-    font-weight: 600;
-}
-.topicos3{
-    text-decoration: none;
-    color: black;
-    margin-left: 2%;
-    font-size: 25px;
-    margin-top: -1.1%;
-    font-weight: 600;
-}
-.noticia2{
-    float: right;
-    margin-top: -33%;
-    margin-right: 26%;
-    width: 350px;
-    height: 204px;
-    border-radius: 5%;
-}
-.noticias2-1{
-    text-decoration: none;
-    color: green;
-    font-size: 30px;
-    font-weight: 600;
-    display:block;
-    margin-left: -24%;
-
-}
-.linha-horizontal{
-    width: 80%;
+.espaco{
+    width: 100%;
     height: 1px;
-    background-color: gray;
-    margin-left: 5%;
-    margin-top: 2%;
-    transform: rotate(270deg);
-    margin-top: 22%;
+    background-color: #ebedef;
+    margin-top: 1%;
 }
-.topicos2-1{
-    display: block;
-    text-decoration: none;
-    color: black;
-    margin-left: 2%;
-    font-size: 25px;
-    margin-top: -6%;
-    font-weight: 600;
-    margin-left: -23%;
+.g1-{
+    margin-top: 1%;
+    margin-left: 4%;
+    width: 1.4%;
 }
-.pontofinal2-1{
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background-color: green;
-    margin-left: -30%;
-    margin-top: 8%;
+.globin{
+    margin-left: 5.5%;
+    width: 4.7%;
+}
+.valor{
+    margin-left: 5.5%;
+    width: 3.5%;
+}
+.ge{
+    margin-left: 5.5%;
+    width: 1.8%;
+}
+.cartola{
+    margin-left: 5.5%;
+    width: 3.9%;
+}
+.globoplay{
+    margin-left: 5.2%;
+    width: 6.5%;
+}
+.gshow{
+    margin-left: 5.5%;
+    width: 4.8%;
 }
 .bbb{
-    float: right;
-    width: 350px;
-    height: 204px;
-    border-radius: 5%;
-    margin-right: 4%;
-    margin-top: -40%;
+    margin-left: 5.5%;
+    width: 3.3%;
 }
-.linha-horizontal1{
-    width: 80%;
+.quem{
+    margin-left: 5.5%;
+    width: 4%;
+}
+.receitas{
+    margin-left: 5.7%;
+    width: 5.1%;
+}
+.barra-2{
+    width: 100%;
     height: 1px;
-    background-color: gray;
-    margin-left: 33%;    
-    transform: rotate(270deg);
-    
-}
-.bbb1{
-    color: orange;
-    text-decoration: none;
-    float: right;
-    font-weight: 600;
-    font-family:inter;
-    font-size: 30px;
-    margin-right: 4.5%;
-    margin-top: -27%;
-    
-
-}
-.bbb-1{
-    float: right;
-    width: 350px;
-    height: 204px;
-    border-radius: 5%;
-    margin-right: 4.3%;
-    margin-top: -20%; 
-}
-.bbb1-1{
-    color: orange;
-    text-decoration: none;
-    float: right;
-    font-weight: 600;
-    font-family:inter;
-    font-size: 30px;
-    margin-right: 4.1%;
-    margin-top: -7%; 
-}
-.bolinhas
-{
-    width: 350px;
-    height: 204px;
-    float: right;
-    margin-right: 31%;
-    border-radius: 5%;
-    margin-top: -18%;
-}
-.primeiro-titulo{
-    text-decoration: none;
-    color: green;
-    font-size: 30px;
-    font-weight: 600;
-    display:block;
-    float: right;
-    margin-top: -6%;
-    margin-right: 31.4%;
-}
-.segundo-titulo{
-    text-decoration: none;
-    color: green;
-    font-size: 30px;
-    font-weight: 600;
-    display:block;
-    float: right;
-    margin-top: 1%;
-    margin-right: 32.5%;
-}
-.divisao{
-    width: 40%;
-    height: 1px;
-    background-color: gray;
-    margin-left: 2%;
-    margin-top: -24%;
-  
-}
-.campo1{
-    margin-top: 34%;
-    margin-left: 49%;
-    width: 350px;
-    height: 204px;
-    border-radius: 5%;
- 
-   
-    display: block;
-    
-}
-.text-campo{
-    text-decoration: none;
-    color: green;
-    font-size: 30px;
-    font-family: inter;
-    font-weight: 600;
-    display: block;
-    margin-left: 48.5%;
-    margin-top: 2%;
-    
-}
-.votacao1{
-    width: 350px;
-    height: 204px;
-    display: block;
-    float: right;
-    margin-right: 4.5%;
-    margin-top: -30%;
-    border-radius: 5%;
-}
-.texto-votacao{
-    text-decoration: none;
-    color: black;
-    font-size: 30px;
-    font-family: inter;
-    font-weight: 600;
-    display: block;
-    float: right;
-    margin-right: 6.4%;
-    margin-top: -18%;
-    padding: 0;
+    background-color: #ebedef;
+    margin-top: 0.5%;
 }
