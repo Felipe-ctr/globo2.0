@@ -594,4 +594,160 @@ border-radius: 5%;
     margin-top: 24%;
     margin-right: -39.3%;
 }
+.segunda-gif-img{
+    margin-top: 12%;
+    margin-left: 3.5%;
+}
+.deu-o-que-falar-texto{
+    margin-top: 5%;
+    font-size: 23px;
+    font-family: inter;
+    color:rgb(255, 103, 0) ;
+    margin-left: 4%;
+    font-weight: 600;
+}
+.botao{
+    width: 14%;
+    height: 50px;
+    display: inline-flex;
+    float: right;
+    background-color:rgb(255, 103, 0) ;
+    margin-top: -3%;
+    margin-right: 4%;
+    border-radius: 5%;
+}
+.repercutiu{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+   font-family: inter;
+   font-weight: 600;
+   margin-top: 8%;
+   margin-left: 5%;
+}
+.espaco-laranja{
+    width: 22%;
+    height: 2.5px;
+    background-color: rgb(255, 103, 0);
+    margin-top: 1%;
+    margin-left: 3.6%;
+    
+}
+.espaco-branco{
+    width: 71%;
+    height: 2.5px;
+    background-color: #ebedef;
+    margin-top: -0.2%;
+    margin-left: 25%;
+}
+.rogriguinho-img{
+    width: 300px;
+    margin-left: 3.6%;
+    margin-top: 2%;
+    border-radius: 5%;
+}
+.quadradinho-branco{
+
+
+width: 305px;
+height: 86px;
+border-radius: 5%;
+margin-left: 3.4%;
+margin-top: -0.4%;
+
+background-color:rgba(255, 255, 255, 0.842)
+}
+.rodriguinho-texto{
+    text-decoration: none;
+    color: rgb(255, 103, 0);
+    margin-top: -4.5%;
+    display: block;
+    margin-left: 5%;
+    font-family: Inter;
+    font-weight: 600;
+ 
+}
+.matheus-treta-img{
+    width: 300px;
+    margin-left: 28%;
+    margin-top: -17%;
+    border-radius: 5%;
+    display: block;
+}
+.treta-matheus-box{
+    width: 305px;
+    height: 86px;
+    border-radius: 5%;
+    margin-left: 29.8%;
+    margin-top: -0.4%;
+    background-color: rgba(255, 255, 255, 0.842);
+}
+.treta-matheus-titulo{
+    text-decoration: none;
+    color: rgb(255, 103, 0);
+    margin-top: -4.5%;
+    display: block;
+    margin-left: 29.4%;
+    font-family: Inter;
+    font-weight: 600;
+}
+.juninhoxdaviimg{
+    width: 300px;
+    float: right;
+    margin-top: -17%;
+    border-radius: 5%;
+    display: block;
+    margin-right: 25.5%;
+}    
+.juninhoxdavi-box{
+    width: 305px;
+    height: 86px;
+    border-radius: 5%;
+    float: right;
+    margin-top: -4.5%;
+    background-color: rgba(255, 255, 255, 0.842);
+    margin-right: 25.3%;
+}
+.titulo-juninhoxdavi{
+    text-decoration: none;
+    color: rgb(255, 103, 0);
+    margin-top: -4.5%;
+    display: block;
+    float: right;
+    font-family: Inter;
+    font-weight: 600;
+    margin-right: -21%;
+    margin-top: -2.7%;
+}
+.yasmin-fiodecabeloimg{
+    width: 300px;
+    height: 169px;
+    float: right;
+    margin-top: -18.3%;
+    border-radius: 5%;
+    display: block;
+    margin-right: -47%
+}
+.yasmin-fiodecabelo-box{
+    width: 305px;
+    height: 86px;
+    border-radius: 5%;
+    float: right;
+    margin-top: -5.7%;
+    background-color:rgba(255, 255, 255, 0.842) ;
+    margin-right: -47.5%;
+}
+.texto-yasmin-fiodecabelo{
+    text-decoration: none;
+    color: rgb(255, 103, 0);
+    margin-top: -4.5%;
+    display: block;
+    float: right;
+    font-family: Inter;
+    font-weight: 600;
+    margin-right: -45%;
+    margin-top: -4%;
+}
+
+
 
