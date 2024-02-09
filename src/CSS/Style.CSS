@@ -1,3 +1,7 @@
+body{
+    max-width: 1366px;
+    margin: 0 auto}
+
 .quadrado{
 
     margin-top: 3%;
@@ -765,7 +769,7 @@ background-color:rgba(255, 255, 255, 0.842)
     margin-left: 3.6%;
 }
 .linha-branca-jornalismo{
-    width: 18%;
+    width: 10%;
     height: 2.5px;
     background-color:#ebedef;
     margin-top: -0.2%;
@@ -775,6 +779,137 @@ background-color:rgba(255, 255, 255, 0.842)
     width: 330px;
     margin-top: 2%;
     margin-left: 3.5%;
+    border-radius: 5%;
+}
+.caixa-jornalismo{
+    width: 330px;
+    height: 120px;
+    border-radius: 5%;
+    background-color:rgb(196, 23, 12) ;
+    margin-left: 3.5%;
+    margin-top: -1%;
+    
+}
+.jornalismo-titulo{
+    text-decoration: none;
+    margin-top: -6.7%;
+    display: block;
+    font-family: inter;
+    font-size: 15px;
+    margin-left: 4.3%;
+    color: white;
+    font-weight: 600;
+
+}
+.subtitulo-jornalismo{
+    text-decoration: none;
+    margin-top: 2%;
+    display: block;
+    font-size: 13px;
+    font-family: inter;
+    margin-left: 5%;
+    color: white;
+}
+.espaco-coluna1{
+    width: 27%;
+    height: 1px;
+    background-color:#ebedef;
+    margin-top: 2%;
+    margin-left: 3.5%;
+}
+.viuva-chorao-img{
+    width: 133px;
+    height: 110px;
+    border-radius: 5%;
+    margin-top: 2%;
+    margin-left: 2.6%;
+}
+.titulo-viuva-chorao{
+    text-decoration: none;
+    display: block;
+    margin-left: 13%;
+    margin-top: -8.3%;
+    font-family: inter;
+    color: rgb(196, 23, 12);
+    font-weight: 600;
+    
+
+}
+.subtitulo-coluna1{
+    text-decoration: none;
+    margin-left: 13%;
+    margin-top: 0.5%;
+    display: block;
+    color: rgb(110, 114, 122);
+    font-family: inter;
+    font-size: 13px;
+
+}
+.jacare-img{
+    width: 133px;
+    height: 110px;
+    border-radius: 5%;
+    margin-top: 2%;
+    margin-left: 2.6%;
+}
+.titulo-jacare{
+    text-decoration: none;
+    display: block;
+    margin-left: 13%;
+    margin-top: -8.3%;
+    font-family: inter;
+    color: rgb(196, 23, 12);
+    font-weight: 600;
+}
+.OMS-titulo{
+    text-decoration: none;
+    display: block;
+    margin-left: 3%;
+    margin-top: 2%;
+    font-family: inter;
+    color: rgb(196, 23, 12);
+    font-weight: 600;
+}
+.subtitulo-sem-foto{
+    text-decoration: none;
+    margin-left: 3%;
+    margin-top: 1%;
+    display: block;
+    color: rgb(110, 114, 122);
+    font-family: inter;
+    font-size: 13px;
+
+}
+.stanley-img{
+    width: 133px;
+    height: 110px;
+    border-radius: 5%;
+    margin-top: 2%;
+    margin-left: 2.6%;
+}
+.titulo-stanley{
+    text-decoration: none;
+    display: block;
+    margin-left: 13%;
+    margin-top: -8.3%;
+    font-family: inter;
+    color: rgb(196, 23, 12);
+    font-weight: 600;
+}
+.veterano-img{
+    width: 392px;
+    margin-left:2.6%;
+    margin-top: 1%;
+    border-radius: 5%;
+}
+.titulo-veterano{
+    text-decoration: none;
+    display: block;
+    margin-left: 2.6%;
+    margin-top: 1%;
+    font-family: inter;
+    color: rgb(196, 23, 12);
+    font-weight: 600;
 }
 
 
