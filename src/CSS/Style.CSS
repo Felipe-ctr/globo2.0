@@ -200,3 +200,228 @@
     background-color: #ebedef;
     margin-top: 0.5%;
 }
+.gif1{
+    margin-top: 2%;
+    width: 90%;
+    margin-left: 5%;
+
+}
+.lula-texto{
+    text-decoration: none;
+   display: block;
+   margin-top: 5%;
+   margin-left: 5%;
+   font-size: 50px;
+   font-weight: 600;
+   font-family: inter;
+   color: rgb(196, 23, 12);
+
+}
+.ponto-1{
+    width: 8px;
+    height: 8px;
+    background-color: rgb(196, 23, 12);
+    border-radius: 50%;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.subtiutlo-lula1{
+    text-decoration: none;
+    margin-left: 6.4%;
+    margin-top: -0.79%;
+    display: block;
+    font-family: inter;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+.barras-3{
+    width: 38%;
+    height: 1px;
+    background-color: #ebedef;
+    margin-top: 2%;
+    margin-left: 4.5%;
+}
+.aedes-img{
+    margin-top: 1.6%;
+    margin-left: 4%;
+    width: 200px;
+    border-radius: 5%;
+
+}
+.dengue{
+    text-decoration: none;
+   display: block;
+   margin-top: 1%;
+   margin-left: 3.7%;
+   font-size: 20px;
+   font-weight: 600;
+   font-family: inter;
+   color: rgb(196, 23, 12);
+
+}
+.ponto-2{
+    width: 8px;
+    height: 8px;
+    background-color: rgb(196, 23, 12);
+    border-radius: 50%;
+    margin-top: 1.2%;
+    margin-left: 3.3%;
+}
+.subtitulo-dengue{
+    text-decoration: none;
+    display: block;
+    font-family: inter;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 4.2%;
+    margin-top: -1.2%;
+}
+.jandira-img{
+    width: 200px;
+    margin-left: 18%;
+    display: block;
+    margin-top: -14.3%;
+    border-radius: 5%;
+}
+.titulo-jandira{
+    text-decoration: none;
+    display: block;
+    margin-top: 1%;
+    margin-left: 18%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: inter;
+    color: rgb(196, 23, 12);
+}
+.ponto-3{
+    width: 8px;
+    height: 8px;
+    background-color: rgb(196, 23, 12);
+    border-radius: 50%;
+    margin-top: 1.2%;
+    margin-left: 17.9%;
+}
+.subtitulo-jandira{
+    text-decoration: none;
+    display: block;
+    font-family: inter;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 19%;
+    margin-top: -1%;
+}
+.renato-cariani-img{
+    width: 200px;
+    margin-left: 31.4%;
+    display: block;
+    margin-top: -14.3%;
+    border-radius: 5%;
+}
+.titulo-renato-cariani{
+    text-decoration: none;
+    display: block;
+    margin-top: 1%;
+    margin-left: 31.4%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: inter;
+    color: rgb(196, 23, 12);
+}
+.ponto-4{
+    width: 8px;
+    height: 8px;
+    background-color: rgb(196, 23, 12);
+    border-radius: 50%;
+    margin-top: 1.2%;
+    margin-left: 31.2%;
+}
+.subtitulo-renato-cariani{
+    text-decoration: none;
+    display: block;
+    font-family: inter;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 32%;
+    margin-top: -1%;
+}
+.barras-4{
+    width: 38%;
+    height: 1px;
+    background-color: #ebedef;
+    margin-top: 2%;
+    margin-left: 4.5%;
+}
+.cracolandia-img{
+margin-top: 1.6%;
+margin-left: 4%;
+width: 200px;
+border-radius: 5%;
+}
+.cracolandia-texto{
+    text-decoration: none;
+    display: block;
+    margin-top: 1%;
+    margin-left: 3.7%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: inter;
+    color: rgb(196, 23, 12);
+}
+.subtitulo-cracolandia{
+    text-decoration: none;
+    display: block;
+    font-family: inter;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 4.2%;
+    margin-top: -1.2%;
+}
+.misterio-do-aviao-img{
+    width: 200px;
+    margin-left: 18%;
+    display: block;
+    margin-top: -14.3%;
+    border-radius: 5%;
+}
+.titulo-misterio-do-aviao{
+    text-decoration: none;
+    display: block;
+    margin-top: 1%;
+    margin-left: 18%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: inter;
+    color: rgb(196, 23, 12);
+}
+.subtitulo-aviao{
+    text-decoration: none;
+    display: block;
+    font-family: inter;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 19%;
+    margin-top: -1%;
+}
+.fabiana-justus-img{
+    width: 200px;
+    margin-left: 31.4%;
+    display: block;
+    margin-top: -14.3%;
+    border-radius: 5%;
+}
+.titulo-fabiana-justus{
+    text-decoration: none;
+    display: block;
+    margin-top: 1%;
+    margin-left: 31.4%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: inter;
+    color: rgb(196, 23, 12);
+}
