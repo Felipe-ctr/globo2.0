@@ -748,6 +748,34 @@ background-color:rgba(255, 255, 255, 0.842)
     margin-right: -45%;
     margin-top: -4%;
 }
+.jornalismo{
+    text-decoration: none;
+    font-family: inter;
+    font-size: 35px;
+    margin-left: 4%;
+    color: rgb(196, 23, 12);
+    font-weight: 600;
+    
+}
+.linha-jornalismo{
+    width: 15%;
+    height: 2.5px;
+    background-color:rgb(196, 23, 12) ;
+    margin-top: 0.5%;
+    margin-left: 3.6%;
+}
+.linha-branca-jornalismo{
+    width: 18%;
+    height: 2.5px;
+    background-color:#ebedef;
+    margin-top: -0.2%;
+    margin-left: 18.6%;
+}
+.hospital-img{
+    width: 330px;
+    margin-top: 2%;
+    margin-left: 3.5%;
+}
 
 
 
