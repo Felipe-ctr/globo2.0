@@ -435,3 +435,163 @@ border-radius: 5%;
     margin-left: 36.9%;
     margin-top: -1%;
 }
+.divisao{
+    width: 74%;
+    height: 1px;
+    background-color:#ebedef ;
+    transform: rotate(270deg);
+    margin-left: 16.5%;
+    margin-top: -30%;
+}
+.allianz-img{
+    width: 250px;
+    float: right;
+    margin-top: -37%;
+    margin-right: 25.3%;
+    border-radius: 5%;
+}
+.titulo-allianz{
+    float: right;
+    text-decoration: none;
+    color: rgb(6, 170, 72) ;
+    margin-right: 25.5%;
+    margin-top: -25%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: inter;
+}
+.ponto-5{
+    width: 8px;
+    height: 8px;
+    background-color: rgb(6, 170, 72) ;
+    float: right;
+    border-radius: 50%;
+    margin-right: 42.9%;
+    margin-top: -17%;
+    
+}
+.subtitulo-allianz{
+    text-decoration: none;
+    display: block;
+    font-family: inter;
+    color: black;
+    font-size: 16px;
+    float: right;
+    margin-right: 25.5%;
+    margin-top: -17.5%;
+}
+.copa-do-brasil-img{
+    width: 250px;
+    float: right;
+    margin-top: -14%;
+    margin-right: 24.3%;
+    border-radius: 5%;
+}
+.titulo-copa-do-brasil{
+    float: right;
+    text-decoration: none;
+    color: rgb(6, 170, 72) ;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: -2%;
+    margin-right: 24%;
+    font-family: inter;
+
+}
+.segundo-titulo{
+    float: right;
+    text-decoration: none;
+    color: rgb(6, 170, 72) ;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 6%;
+    margin-right: -17.4%;
+    font-family: inter;
+}
+.cuiaba-img{
+    width: 250px;
+    float: right;
+    margin-top: 12%;
+    margin-right: -18.4%;
+    border-radius: 5%;
+}
+.titulo-cuiaba{
+    float: right;
+    text-decoration: none;
+    color: rgb(6, 170, 72) ;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 25%;
+    margin-right: -18.5%;
+    font-family: inter;
+}
+.divisao-2{
+    width: 74%;
+    height: 1px;
+    background-color:#ebedef ;
+    transform: rotate(270deg);
+    margin-left: 41.5%;
+    margin-top: -4%;
+}
+.sister-pistola-img{
+    width: 250px;
+    float: right;
+    margin-top: -39.6%;
+    margin-right: -42.4%;
+    border-radius: 5%;
+}
+.titulo-sister-pistola{
+    text-decoration: none;
+    float: right;
+    margin-right: -41%;
+    margin-top: -27%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: inter;
+    color: rgb(255, 103, 0);
+}
+.davi-consiencia-img{
+    width: 250px;
+    float: right;
+    margin-top: -18.6%;
+    margin-right: -42.4%;
+    border-radius: 5%;
+}
+.titulo-davi-consiencia{
+    text-decoration: none;
+    float: right;
+    margin-right: -41.4%;
+    margin-top: -6%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: inter;
+    color: rgb(255, 103, 0);
+}
+.quem-fica-img{
+    width: 250px;
+    float: right;
+    margin-top: 2%;
+    margin-right: -41.8%;
+    border-radius: 5%; 
+}
+.quem-fica-titulo{
+    text-decoration: none;
+    float: right;
+    margin-right: -39%;
+    margin-top: 13%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: inter;
+    color: black
+}
+.voto-unico-img{
+    float: right;
+    margin-top: 20%;
+    margin-right: -39%;
+}
+.voto-da-torcida-img{
+    float: right;
+    margin-top: 24%;
+    margin-right: -39.3%;
+}
+
