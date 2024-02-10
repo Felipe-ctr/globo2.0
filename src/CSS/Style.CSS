@@ -968,6 +968,168 @@ background-color:rgba(255, 255, 255, 0.842)
     color: rgb(196, 23, 12);
     font-weight: 600;
 }
+.texto-esporte{
+    text-decoration: none;
+    font-family: inter;
+    font-size: 35px;
+    float: right;
+    color: rgb(6, 170, 72);
+    font-weight: 600;
+    margin-top: -136.5%;
+    margin-right:50%;
+}
+.espaco-verde{
+    width: 15%;
+    height: 2.5px;
+    background-color: rgb(6, 170, 72);
+    margin-top: -132.9%;
+    margin-right:45%;
+    float: right;
+}
+.espaco-branco2{
+    width: 9%;
+    height: 2.5px;
+    background-color:#ebedef;
+    margin-top: -132.9%;
+    margin-right:36%;
+    float: right;
+   
+ 
+
+}
+.divorcio-img{
+    width: 330px;
+    margin-top: -131%;
+    margin-right:36%;
+    float: right;
+
+    border-radius: 5%;
+}
+.divorcio-caixa{
+    width: 330px;
+    height: 120px;
+    border-radius: 5%;
+    background-color: rgb(6, 170, 72);
+    margin-top: -117.98%;
+    margin-right:36%;
+    float: right;
+   
+}
+.texto-divorcio{
+    text-decoration: none;
+    display: block;
+    font-size: 15px;
+    font-family: inter;
+    color: white;
+    margin-top: 10%;
+    margin-right:5%;
+    float: right;
+    font-weight: 600;
+}
+.subtitulo-esportes{
+    text-decoration: none;
+    font-size: 13px;
+    font-family: inter;
+    margin-left: 5%;
+    color: white;
+    margin-top: -110.98%;
+    margin-right:48%;
+    float: right;
+   
+}
+.espaco-coluna2{
+    width: 27%;
+    height: 1px;
+    background-color:#ebedef;
+    margin-top: -108.8%;
+    margin-right:33%;
+    float: right;
+
+}
+.sao-paulo-img{
+    width: 133px;
+    height: 110px;
+    border-radius: 5%;
+    margin-top: -107%;
+    margin-right:50%;
+    float: right;
+}
+.titulo-sao-paulo{
+    text-decoration: none;
+    font-family: inter;
+    color: rgb(6, 170, 72);
+    font-weight: 600;
+    margin-top: -106.98%;
+    margin-right:31%;
+    float: right;
+}
+.subtitulo-coluna2{
+    text-decoration: none;
+    display: block;
+    color: rgb(110, 114, 122);
+    font-family: inter;
+    font-size: 13px;
+    margin-top: -100.98%;
+    margin-right:38%;
+    float: right;
+}
+.espaco-coluna2-1{
+    width: 27%;
+    height: 1px;
+    background-color:#ebedef;
+    margin-top: -99.8%;
+    margin-right:33%;
+    float: right;
+
+}
+.botafogo-img{
+    width: 133px;
+    height: 110px;
+    border-radius: 5%;
+    margin-top: -97.8%;
+    margin-right:50%;
+    float: right;
+}
+.botafogo{
+
+    text-decoration: none;
+    font-family: inter;
+    color: rgb(6, 170, 72);
+    font-weight: 600;
+    margin-top: -97.8%;
+    margin-right:30%;
+    float: right;
+}
+.espaco-coluna2-2{
+    width: 27%;
+    height: 1px;
+    background-color:#ebedef;
+    margin-top: -90.4%;
+    margin-right:33%;
+    float: right;
+}
+.subtitulo-botafogo{
+    text-decoration: none;
+    display: block;
+    color: rgb(110, 114, 122);
+    font-family: inter;
+    font-size: 13px;
+    margin-top: -91.8%;
+    margin-right:38%;
+    float: right;
+}
+.pre-olimpico-titulo{
+   
+    text-decoration: none;
+    font-family: inter;
+    color: rgb(6, 170, 72);
+    font-weight: 600;
+    margin-top: 6%;
+    display: block;
+    
+   
+}
+
  
 
 
