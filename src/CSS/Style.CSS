@@ -1129,6 +1129,170 @@ background-color:rgba(255, 255, 255, 0.842)
     
    
 }
+.subtitulo-coluna2-3{
+    text-decoration: none;
+    display: block;
+    color: rgb(110, 114, 122);
+    font-family: inter;
+    font-size: 13px;
+    margin-top: 4%;
+
+}
+.espaco-coluna2-3{
+    width: 100%;
+    height: 1px;
+    background-color:#ebedef;
+    margin-top: 7%;
+    float: right;
+}
+
+
+.vitor-img{
+    width: 133px;
+    height: 110px;
+    border-radius: 5%;
+    margin-top: 5%;
+}
+.titulo-vitor{
+    text-decoration: none;
+    font-family: inter;
+    color: rgb(6, 170, 72);
+    font-weight: 600;
+    display: block;
+    margin-left: 40%;
+    margin-top: -31.7%;
+}
+.subtitulo-vitor{
+    text-decoration: none;
+    display: block;
+    color: rgb(110, 114, 122);
+    font-family: inter;
+    font-size: 13px;
+    margin-top: 4%;
+    margin-left: 40%;
+
+}
+.espaco-vitor{
+    width: 100%;
+    height: 1px;
+    background-color:#ebedef;
+    margin-top: 4.6%;
+    float: right;
+}
+.lebron-img{
+    width: 392px;
+    margin-top: 3.6%;
+    border-radius: 5%; 
+
+}
+.titulo-lebron{
+    text-decoration: none;
+    font-family: inter;
+    color: rgb(6, 170, 72);
+    font-weight: 600;
+    display: block;
+    margin-left: 1%;
+    margin-top: 4%;
+}
+.subtitulo-lebron{
+    text-decoration: none;
+    display: block;
+    color: rgb(110, 114, 122);
+    font-family: inter;
+    font-size: 13px;
+    margin-top: 4%;
+    margin-left: 1%;
+}
+.espaco-lebron{
+    width: 110%;
+    height: 1px;
+    background-color:#ebedef;
+    margin-top: 6%;
+    float: right;
+    margin-right: -10%;
+}
+.xavi-img{
+    width: 133px;
+    height: 110px;
+    border-radius: 5%;
+    margin-top: 8%;
+}
+.titulo-xavi{
+    text-decoration: none;
+    font-family: inter;
+    color: rgb(6, 170, 72);
+    font-weight: 600;
+    display: block;
+    margin-left: 40%;
+    margin-top: -32%;
+}
+.subtitulo-xavi{
+    text-decoration: none;
+    display: block;
+    color: rgb(110, 114, 122);
+    font-family: inter;
+    font-size: 13px;
+    margin-top: 4%;
+    margin-left: 40%;
+}
+.espaco-xavi{
+    width: 110%;
+    height: 1px;
+    background-color:#ebedef;
+    margin-top: 7%;
+    float: right;
+    margin-right: -10%;
+}
+.guardiola-titulo{
+    text-decoration: none;
+    font-family: inter;
+    color: rgb(6, 170, 72);
+    font-weight: 600;
+    display: block;
+    margin-top: 15%;
+ 
+}
+.subtitulo-guardiola{
+    text-decoration: none;
+    display: block;
+    color: rgb(110, 114, 122);
+    font-family: inter;
+    font-size: 13px;
+    margin-top: 4%;
+   
+}
+.espaco-guardiola{
+    width: 110%;
+    height: 1px;
+    background-color:#ebedef;
+    margin-top: 7%;
+    float: right;
+    margin-right: -10%;
+}
+.bolao-img{
+    width: 133px;
+    height: 110px;
+    border-radius: 5%;
+    margin-top: 8%;
+}
+.titulo-bolao{
+    text-decoration: none;
+    font-family: inter;
+    color: rgb(6, 170, 72);
+    font-weight: 600;
+    display: block;
+    margin-left: 40%;
+    margin-top: -32%;
+}
+.subtitulo-bolao{
+    text-decoration: none;
+    display: block;
+    color: rgb(110, 114, 122);
+    font-family: inter;
+    font-size: 13px;
+    margin-top: 4%;
+    margin-left: 40%;
+}
 
  
 
