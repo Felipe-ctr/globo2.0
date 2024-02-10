@@ -936,6 +936,39 @@ background-color:rgba(255, 255, 255, 0.842)
     color: rgb(196, 23, 12);
     font-weight: 600;
 }
+.essequibo-img{
+    width: 133px;
+    height: 110px;
+    border-radius: 5%;
+    margin-top: 2%;
+    margin-left: 2.6%;
+}
+.titulo-essequibo{
+    text-decoration: none;
+    display: block;
+    margin-left: 13%;
+    margin-top: -8.3%;
+    font-family: inter;
+    color: rgb(196, 23, 12);
+    font-weight: 600;
+}
+.pf-solicita-img{
+    width: 133px;
+    height: 110px;
+    border-radius: 5%;
+    margin-top: 2%;
+    margin-left: 2.6%;
+}
+.pf-solicita-texto{
+    text-decoration: none;
+    display: block;
+    margin-left: 13%;
+    margin-top: -8.3%;
+    font-family: inter;
+    color: rgb(196, 23, 12);
+    font-weight: 600;
+}
+ 
 
 
 
