@@ -1293,8 +1293,69 @@ background-color:rgba(255, 255, 255, 0.842)
     margin-top: 4%;
     margin-left: 40%;
 }
+.espaco-bolao{
+    width: 110%;
+    height: 1px;
+    background-color:#ebedef;
+    margin-top: 5.5%;
+    float: right;
+    margin-right: -10%;
+} 
+.bicampeao-img{
+    width: 133px;
+    height: 110px;
+    border-radius: 5%;
+    margin-top: 5%;
+}
+.bicampeao-texto{
+    text-decoration: none;
+    font-family: inter;
+    color: rgb(6, 170, 72);
+    font-weight: 600;
+    display: block;
+    margin-left: 40%;
+    margin-top: -31.5%;
+}
+.subtitulo-bicampeao{
+    text-decoration: none;
+    display: block;
+    color: rgb(110, 114, 122);
+    font-family: inter;
+    font-size: 13px;
+    margin-top: 4%;
+    margin-left: 40%;
+}
+.entretenimento{
+    text-decoration: none;
+    font-family: inter;
+    font-size: 35px;
+    color: rgb(255, 103, 0);
+    font-weight: 600;
+    display: block;
+    margin-left: 120%;
+    margin-top: -499%;
+   
+    
+}  
+.linha-laranja-coluna3{
+    width: 70%;
+    height: 3px;
+    background-color:rgb(255, 103, 0) ;
+    margin-left: 120%;
+    
+    display: block;
+}
+.linha-branca-coluna3{
+    width: 30%;
+    height: 2.5px;
+    background-color:#ebedef ;
+    margin-left: 190%;
+    margin-top: -0.7%;
+    
+    display: block;
+}
 
- 
+
 
 
 
