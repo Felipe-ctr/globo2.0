@@ -1325,6 +1325,7 @@ background-color:rgba(255, 255, 255, 0.842)
     margin-top: 4%;
     margin-left: 40%;
 }
+
 .entretenimento{
     text-decoration: none;
     font-family: inter;
@@ -1342,6 +1343,7 @@ background-color:rgba(255, 255, 255, 0.842)
     height: 3px;
     background-color:rgb(255, 103, 0) ;
     margin-left: 120%;
+    margin-top: 1%;
     
     display: block;
 }
@@ -1350,10 +1352,60 @@ background-color:rgba(255, 255, 255, 0.842)
     height: 2.5px;
     background-color:#ebedef ;
     margin-left: 190%;
-    margin-top: -0.7%;
+    margin-top: -0.8%;
     
     display: block;
 }
+.musa-img{
+    width: 330px;
+    margin-left: 124.7%;
+    border-radius: 5%;
+    margin-top: 6.7%;
+}
+.box-musa{
+    width: 330px;
+    height: 120px;
+    border-radius: 5%;
+    background-color:rgb(255, 103, 0) ;
+    margin-left: 124.7%;
+    margin-top: -4%;
+}
+.musa-titulo{
+   display: block;
+    font-size: 15px;
+    font-family: inter;
+    color: white; 
+    text-decoration: none;
+    font-weight: 600; 
+    float: right;
+    margin-top: -386%; ;
+    margin-right: -214%;
+}
+.subtitulo-musa{
+    text-decoration: none;
+    display: block;
+    color: white;
+    font-family: inter;
+    font-size: 13px;
+    margin-left: 133.7%;
+    margin-top: -8%;
+}
+.espaco-musa{
+    width: 100%;
+    height: 1px;
+    background-color:#ebedef;
+    margin-top: 9.1%;
+    margin-left: 121%;
+}
+.leo-santana-img{
+    width: 133px;
+    height: 110px;
+    border-radius: 5%;
+    margin-top: 6.8%;
+    margin-left:124% ;
+} 
+
+
 
 
 
